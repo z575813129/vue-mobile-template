@@ -1,9 +1,9 @@
 {
-  "name": "yc_mobile_v2",
+  "name": "vue_mobile_template",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "破晓 <3321847368@qq.com>",
-  "private": true,
+  "author": "Anyway",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
